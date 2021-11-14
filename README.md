@@ -1,5 +1,5 @@
 #Opis programu
 
-Program ma na celu symulować logowanie do systemu. Logowanie odbywa się predefiniowanymi loginami
-i hasłami znajdującymi się w klasie UserUI w metodzie addUsers(). Zatwierdzić można za pomocą
-przycisku Login lub klawiszem Enter.
+Pragram symuluje działanie logowania do systemu.
+Logowanie jest możliwe dzięki wprowadzonym wcześniej loginom i hasłom.
+By sprawdzić czy dane dane umożliwiają do zalogowania nalęzy kliknąc przycisk Login.
